@@ -1,2 +1,12 @@
-body{
-backgroud: blue;}
+  body{
+      background-color: #EAEAEA;
+  }
+#header{
+    width: 100%;
+    background-color: white;
+}
+
+#contenido{
+    width: 100%;
+    border: 0px;
+}
