@@ -1,12 +1,33 @@
-  body{
-      background-color: #EAEAEA;
-  }
-#header{
+.container{
     width: 100%;
+    text-align: center;
+}
+
+body{
+      background-color: #EAEAEA;
+      margin: 0px;
+  }
+
+#header{
+    background-color: white;
+    overflow: hidden;
+}
+
+.foto{
+    width: 50%;
+    height: 400px;
     background-color: white;
 }
 
-#contenido{
+p{
+    color: gray;
+    float: right;
+}
+
+h2{
+    float: left;
+}
+
+img{
     width: 100%;
-    border: 0px;
 }
